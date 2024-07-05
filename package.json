@@ -1,0 +1,29 @@
+{
+  "name": "ek4tech",
+  "version": "1.0.0",
+  "description": "point of sale aplication for electronic shop",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BachtiarAH/ek4tech.git"
+  },
+  "keywords": [
+    "pos",
+    "point-of-sale",
+    "desktop-app",
+    "desktop"
+  ],
+  "author": "bachtiar73",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BachtiarAH/ek4tech/issues"
+  },
+  "homepage": "https://github.com/BachtiarAH/ek4tech#readme",
+  "devDependencies": {
+    "electron": "^31.1.0"
+  }
+}
